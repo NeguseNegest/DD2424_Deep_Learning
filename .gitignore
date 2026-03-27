@@ -1,2 +1,4 @@
 .venv/
 Assignment_1/Datasets/cifar-10-batches-py/
+Assignment_1/__pycache__/
+.DS_Store/
