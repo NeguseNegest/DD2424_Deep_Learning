@@ -1,6 +1,5 @@
 import torch
 import numpy as np
-import pickle
 
 def ComputeGradsWithTorch(X, y, network_params, lam=0):
     Xt = torch.from_numpy(X)
